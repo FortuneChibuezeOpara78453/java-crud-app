@@ -28,5 +28,6 @@ out/
 
 ### Build / Frontend ###
 frontend/generated/
+src/main/frontend/
 node_modules/
 pnpm-lock.yaml
