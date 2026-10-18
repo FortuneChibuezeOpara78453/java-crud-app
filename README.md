@@ -38,3 +38,7 @@ http://localhost:8080
 
 ## Documentation
 Screenshots of the running application, CRUD operations, and startup logs are located in the [`doc/`](doc/) directory.
+
+## Collaboration
+
+This project was reviewed as part of Laboratory 1 GitHub collaboration practice. The collaboration includes making changes through a separate branch, submitting a Pull Request, and reviewing and merging contributions.
